@@ -1,0 +1,45 @@
+body{
+    background-color: bisque;
+    opacity: 0.8;
+    border: 5px solid darkcyan;
+    border-radius: 20px;
+}
+#counter-el{
+    text-align: center;
+    margin-bottom: 5px;
+}
+#btn{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+#increment-btn, #save-btn{
+    margin : 10px;
+    width: 200px;
+    height: 30px;
+    font-family:  'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 900px;  
+    border-radius: 20px 0px;
+}
+#increment-btn{
+    background-color: green;
+    color : black
+}
+
+#save-btn{
+    background-color: red;
+    color : black
+}
+
+#wel-el{
+    color: darkred;
+    text-align: center;
+    padding: 20px;
+}
+#save-el{
+    text-align: center;
+    color: black;
+}
