@@ -43,3 +43,19 @@ body{
     text-align: center;
     color: black;
 }
+
+#cal-el{
+    border: 5px groove mintcream;
+    border-radius: 5px 0;
+    background-color: seagreen;
+    opacity: 0.56;
+    text-align: center;
+}
+
+#cal-el > button{
+    width: 300px;
+    color: orange;
+    height: 32px;
+    font-size: large bold;
+    border-radius: 0 12px;
+}
